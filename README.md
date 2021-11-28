@@ -4,6 +4,8 @@ In this module we had to visualize the city bike data from a csv file. This was 
 means of getting used to this unfimailr software. This challenge was a little tricky at first but then i soon
 was able to navigate through tableau quickly and i started to figure out how to make these visualizations
 
+Tableau Story: https://public.tableau.com/app/profile/ashton.anderson/viz/Citibike_16381424008600/Story1?publish=yes
+
 
 
 # Results
